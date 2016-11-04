@@ -16,6 +16,10 @@ Just put the script wherever, and call it. If you pass `--header`, it will add s
 
 To add to your shell, put it somewhere in your path, make sure its executable, and do `echo "inspiration --header" >> ~/.zshrc # or whatever shell init you use`
 
+## Customization
+
+open up the script and change the colors / decoration however you like
+
 ## Contributing
 
 I highly welcome contributions, but will likely be a bit picky/arbitrary about what quotes I will accept, so please dont be offended if I dont merge. This is basically the simplest thing ever, so feel to fork / do whatever.
