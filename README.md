@@ -14,7 +14,7 @@ This requires some (any?) version of ruby to be installed.
 
 Just put the script wherever, and call it. If you pass `--header`, it will add some newlines to pad stuff out.
 
-To add to your shell, put it somewhere in your path, make sure its executable, and do `echo "inspiration --header >> ~/.zshrc # or whatever shell init you use`
+To add to your shell, put it somewhere in your path, make sure its executable, and do `echo "inspiration --header" >> ~/.zshrc # or whatever shell init you use`
 
 ## Contributing
 
