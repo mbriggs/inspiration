@@ -1,5 +1,7 @@
 # Inspiration
 
+![Be Inspired!](screeny.png)
+
 I wrote a small script to give me a message in emacs when I launched it that met the following constraints
 
  - is a one liner
